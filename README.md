@@ -1,2 +1,2 @@
-# tourApp
+# tutor.js
 DevelopmentEnv
